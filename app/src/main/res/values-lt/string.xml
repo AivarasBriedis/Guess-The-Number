@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Atspek skaiciu!</string>
+    <string name="btn_start">Start Game</string>
+    <string name="btb_results">Results</string>
+    <string name="btn_settings">Setting</string>
+    <string name="btn_about">About</string>
+    <string-array name="difficulty_values">
+        <item>Lengvas</item>
+        <item>Vidutinis</item>
+        <item>Sunkus</item>
+        <item>Neimanomas</item>
+    </string-array>
+    <string name="number_range_format">Guess a number in range %d to %d</string>
+    <string name="turns_format">Turn %d of %d</string>
+    <string name="result_format">Guessed number was % and it was too %s</string>
+    <string name="result_high">High</string>
+    <string name="result_low">Low</string>
+</resources>
